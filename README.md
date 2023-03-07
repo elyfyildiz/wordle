@@ -13,7 +13,3 @@ Girdi: KETEN
 Girdi: KORKU
 
 Çıktı: __ O __ E __- Yeri yanlış harfler: T, K, R - Olmayan harfler: E, N, O, U
-
-Girdi: ROKET
-
-Çıktı: ROKET - Yeri yanlış harfler: T, K, R - Olmayan harfler: E, N, O, U,
